@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio-Web4/static/css/main.eeb8b890.css",
-    "main.js": "/Portfolio-Web4/static/js/main.2527c18b.js",
+    "main.js": "/Portfolio-Web4/static/js/main.7ee7c526.js",
     "static/js/453.e391bfc9.chunk.js": "/Portfolio-Web4/static/js/453.e391bfc9.chunk.js",
     "static/media/Ice-cream-shop.png": "/Portfolio-Web4/static/media/Ice-cream-shop.61fabe968bbe0ce24a42.png",
     "static/media/Weather-App.png": "/Portfolio-Web4/static/media/Weather-App.3bf0a30d048132689999.png",
@@ -35,11 +35,11 @@
     "static/media/html-5-svgrepo-com-3.svg": "/Portfolio-Web4/static/media/html-5-svgrepo-com-3.94c1e97370ba5517618a5f508490125f.svg",
     "static/media/nav-icon1.svg": "/Portfolio-Web4/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "main.eeb8b890.css.map": "/Portfolio-Web4/static/css/main.eeb8b890.css.map",
-    "main.2527c18b.js.map": "/Portfolio-Web4/static/js/main.2527c18b.js.map",
+    "main.7ee7c526.js.map": "/Portfolio-Web4/static/js/main.7ee7c526.js.map",
     "453.e391bfc9.chunk.js.map": "/Portfolio-Web4/static/js/453.e391bfc9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eeb8b890.css",
-    "static/js/main.2527c18b.js"
+    "static/js/main.7ee7c526.js"
   ]
 }
