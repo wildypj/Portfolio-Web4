@@ -1,16 +1,19 @@
 {
   "files": {
     "main.css": "/Portfolio-Web4/static/css/main.eeb8b890.css",
-    "main.js": "/Portfolio-Web4/static/js/main.ad12557a.js",
-    "static/js/453.90a7b0b2.chunk.js": "/Portfolio-Web4/static/js/453.90a7b0b2.chunk.js",
+    "main.js": "/Portfolio-Web4/static/js/main.2527c18b.js",
+    "static/js/453.e391bfc9.chunk.js": "/Portfolio-Web4/static/js/453.e391bfc9.chunk.js",
+    "static/media/Ice-cream-shop.png": "/Portfolio-Web4/static/media/Ice-cream-shop.61fabe968bbe0ce24a42.png",
     "static/media/Weather-App.png": "/Portfolio-Web4/static/media/Weather-App.3bf0a30d048132689999.png",
     "static/media/chat-app.png": "/Portfolio-Web4/static/media/chat-app.a5f8a911f9cd2993902c.png",
     "static/media/To-Do-App.png": "/Portfolio-Web4/static/media/To-Do-App.e391d425f22fd99baf1d.png",
+    "static/media/Equiy-Insight.png": "/Portfolio-Web4/static/media/Equiy-Insight.e674a037d9086e9b692a.png",
     "static/media/Movie-Quote.png": "/Portfolio-Web4/static/media/Movie-Quote.c929036257589c6e861f.png",
     "static/media/podcast-summary-app.png": "/Portfolio-Web4/static/media/podcast-summary-app.bbb4f5a98ac145cad9b4.png",
     "static/media/Calculator-web-app.png": "/Portfolio-Web4/static/media/Calculator-web-app.dcfd9898688ed5db3564.png",
     "static/media/color-sharp.png": "/Portfolio-Web4/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/header-img.png": "/Portfolio-Web4/static/media/header-img.2d43054e8c5c6ed5fb28.png",
+    "static/media/Property-ROI-Analyzer.png": "/Portfolio-Web4/static/media/Property-ROI-Analyzer.59b4e5779715bf38a7b2.png",
     "static/media/color-sharp3.jpg": "/Portfolio-Web4/static/media/color-sharp3.3cf6f58511cb19acdcf9.jpg",
     "static/media/CentraNo2-Bold.ttf": "/Portfolio-Web4/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/Portfolio-Web4/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
@@ -32,11 +35,11 @@
     "static/media/html-5-svgrepo-com-3.svg": "/Portfolio-Web4/static/media/html-5-svgrepo-com-3.94c1e97370ba5517618a5f508490125f.svg",
     "static/media/nav-icon1.svg": "/Portfolio-Web4/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "main.eeb8b890.css.map": "/Portfolio-Web4/static/css/main.eeb8b890.css.map",
-    "main.ad12557a.js.map": "/Portfolio-Web4/static/js/main.ad12557a.js.map",
-    "453.90a7b0b2.chunk.js.map": "/Portfolio-Web4/static/js/453.90a7b0b2.chunk.js.map"
+    "main.2527c18b.js.map": "/Portfolio-Web4/static/js/main.2527c18b.js.map",
+    "453.e391bfc9.chunk.js.map": "/Portfolio-Web4/static/js/453.e391bfc9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eeb8b890.css",
-    "static/js/main.ad12557a.js"
+    "static/js/main.2527c18b.js"
   ]
 }
